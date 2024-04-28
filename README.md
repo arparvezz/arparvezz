@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020.<br>📚 I'm currently learning Vue JS.<br>🎯 Goals: Nuxt, Laravel.<br>🎲 Fun fact: Developer without Knowledge.</p>
+<p align="left">✨ Creating bugs since 2020.<br>📚 I'm currently learning Vue JS.<br>🎯 Goals: Nuxt, Laravel.<br>🎲 Fun fact: Full Time Shopify/WordPress Expert Part time coder.</p>
 
 ###
 
