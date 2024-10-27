@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
+<h2 align="left">Junior Shopify Theme Developer | WordPress Expert | Learning Vue.js</h2>
 <p align="left">I’m a passionate junior Shopify theme developer with a solid background in WordPress customization. Currently expanding my skills in Shopify theme development and diving into Vue.js. Always eager to learn, improve, and contribute to innovative projects in the e-commerce space!
 
 </p>
