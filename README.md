@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">My name is Ar parvez and I'm a Shopify theme developer and Vue learner, from Dhaka.</p>
+<p align="left">I’m a passionate junior Shopify theme developer with a solid background in WordPress customization. Currently expanding my skills in Shopify theme development and diving into Vue.js. Always eager to learn, improve, and contribute to innovative projects in the e-commerce space!
+
+</p>
 
 ###
 
