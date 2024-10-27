@@ -12,7 +12,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020.<br>📚 I'm currently learning Vue JS.<br>🎯 Goals: Nuxt, Laravel.<br>🎲 Fun fact: Full Time Shopify/WordPress Expert Part time coder.</p>
+<p align="left">✨ Creating bugs since 2020.
+📚 Currently learning Shopify theme development and Vue.js.
+🔧 Practicing AJAX and Shopify customization.
+🎯 Goals: Mastering Nuxt and diving into Laravel.
+🎲 Fun fact: Full-time Shopify/WordPress expert, part-time coder.
+</p>
 
 ###
 
