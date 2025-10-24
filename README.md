@@ -1,8 +1,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<h2 align="left">Shopify Theme Developer | WordPress Expert | Learning Vue.js</h2>
-<p align="left">I’m a passionate junior Shopify theme developer with a solid background in WordPress customization. Currently expanding my skills in Shopify theme development and diving into Vue.js. Always eager to learn, improve, and contribute to innovative projects in the e-commerce space!
+<h2 align="left">Junior PHP Developer |Shopify Theme Developer | WordPress Expert | Learning Vue.js, Laravel</h2>
+<p align="left">I’m a passionate junior PHP developer with a solid background in Shopify theme development & WordPress customization. Currently expanding my skills in PHP, Laravel, and diving into Vue.js. Always eager to learn, improve, and contribute to innovative projects in the Software space!
 
 </p>
 
@@ -13,9 +13,9 @@
 ###
 
 <p align="left">✨ Creating bugs since 2020.</br>
-📚 Currently learning Shopify theme development and Vue.js.</br>
+📚 Currently learning Laravel and Vue.js.</br>
 🔧 Practicing AJAX and Shopify customization.</br>
-🎯 Goals: Mastering Nuxt and diving into Laravel.</br>
+🎯 Goals: Mastering Nuxt and diving into System Design.</br>
 🎲 Fun fact: Full-time Shopify/WordPress expert, part-time coder.</br>
 </p>
 
