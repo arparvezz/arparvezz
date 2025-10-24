@@ -43,7 +43,7 @@ I enjoy solving problems, learning new technologies, and building clean, functio
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" height="40" alt="shopify logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" height="40" alt="shopify logo" />
 </div>
 
 ###
