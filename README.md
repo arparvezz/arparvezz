@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<h2 align="left">Junior PHP Developer |Shopify Theme Developer | WordPress Expert | Learning Vue.js, Laravel</h2>
+<h2 align="left">Junior PHP Developer | Shopify Theme Developer | WordPress Expert | Learning Vue.js, Laravel</h2>
 <p align="left">I’m a passionate junior PHP developer with a solid background in Shopify theme development & WordPress customization. Currently expanding my skills in PHP, Laravel, and diving into Vue.js. Always eager to learn, improve, and contribute to innovative projects in the Software space!
 
 </p>
