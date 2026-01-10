@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Junior PHP Developer | Shopify Theme Developer | WordPress Expert | Learning Laravel & Vue.js</h2>
+<h2 align="left">WordPress Developer | Shopify Theme Developer | PHP Developer | Learning Laravel & Vue.js</h2>
 
 <p align="left">
 I'm a passionate <b>Junior PHP Developer</b> with hands-on experience in <b>Shopify theme development</b> and <b>WordPress customization</b>.  
