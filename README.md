@@ -2,10 +2,10 @@
 
 ###
 
-<h2 align="left">WordPress Developer | Shopify Theme Developer | PHP Developer | Learning Laravel & Vue.js</h2>
+<h2 align="left">WordPress & Shopify Developer | SEO Expert</h2>
 
 <p align="left">
-I'm a passionate <b>Junior PHP Developer</b> with hands-on experience in <b>Shopify theme development</b> and <b>WordPress customization</b>.  
+I'm a passionate <b>PHP Developer</b> with hands-on experience in <b>Shopify theme development</b> and <b>WordPress customization</b>.  
 Currently sharpening my skills in <b>Laravel</b> and exploring <b>Vue.js</b> to become a more versatile full-stack developer.  
 I enjoy solving problems, learning new technologies, and building clean, functional web experiences.  
 </p>
